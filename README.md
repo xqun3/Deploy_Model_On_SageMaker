@@ -11,3 +11,5 @@ DLC上的LMI容器列表，请点击[这里](https://github.com/aws/deep-learnin
 有关SageMaker上的LMI文档的更多信息,请点击[这里](https://docs.aws.amazon.com/sagemaker/latest/dg/realtime-endpoints-large-model-inference.html)。
 
 对于您可以在DJLServing上设置的所有serving.properties选项,请点击[这里](https://docs.djl.ai/docs/serving/serving/docs/modes.html#servingproperties)。
+
+不同部署方式推理时对应的 input/output schema,请点击[这里](https://docs.djl.ai/docs/serving/serving/docs/lmi/user_guides/lmi_input_output_schema.html)。
